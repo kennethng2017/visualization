@@ -2,7 +2,8 @@
 
 download all data.
 
-Open visualization_data.r
-Open complete_data.Rdata
+1.Open visualization_data.r
 
-begin from visualization_data.r
+2.Open complete_data.Rdata
+
+3.begin from visualization_data.r
